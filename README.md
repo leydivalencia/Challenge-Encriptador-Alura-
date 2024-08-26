@@ -8,13 +8,18 @@ Este proyecto te permite cifrar y descifrar texto de forma sencilla utilizando u
 ### Sobre el Desafío:
 A través de este proyecto, tendrás la oportunidad de practicar y consolidar los conceptos aprendidos, fortaleciendo tu capacidad para desarrollar soluciones de software de manera efectiva.
 ### Reglas
-Las**"llaves"**de encriptación que se utilizaron son las siguientes:
+Las"llaves" de encriptación que se utilizaron son las siguientes:
 
 - La letra"e"es convertida para "enter" 
 - La letra"i"es convertida para "imes" 
 - La letra"a"es convertida para "ai" 
 - La letra"o"es convertida para "ober" 
 - la letra"u"es convertida para "ufat"
+
+### Requisitos:
+- Debe funcionar solo con letras minúsculas
+- No deben ser utilizados letras con acentos ni caracteres especiales
+- Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
 
 ### Características :
 - Encriptación: Transforma palabras según un conjunto específico de reglas.

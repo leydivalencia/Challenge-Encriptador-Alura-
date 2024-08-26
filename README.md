@@ -1,7 +1,7 @@
 # Challenge-Encriptador-Alura- Oracle Next Education G7
 
 ### Propósito del Desafío:
-> Solución al Challenge del curso de programación de Alura, adaptada con un estilo personal.
+> Solución al Challenge del curso de programación de Alura, adaptado con un estilo personal.
 
 Este proyecto te permite cifrar y descifrar texto de forma sencilla utilizando un cifrado por sustitución básico. La interfaz es intuitiva y fácil de usar.
 

@@ -36,12 +36,12 @@ Las**"llaves"**de encriptación que se utilizaron son las siguientes:
 - CSS
 - JavaScript
 
-###Ver el Proyecto
+### Ver el Proyecto
 Para ver el proyecto en acción, visita el repositorio en GitHub:
 >https://leydivalencia.github.io/Challenge-Encriptador-Alura-/
 ###Clona el repositorio 
 https://github.com/leydivalencia/Challenge-Encriptador-Alura-.git
  
- ###Imagen 
+ ### Imagen 
 [![Resultado.png](https://i.postimg.cc/nzPVKPjS/Resultado.png)](https://postimg.cc/gX3Pm4K3)
 

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/estilos.css">
+    <title>Encriptador</title>
+</head>
+
+<body>
+
+    <header>
+        <div class="icon_alura"> <img id="principal_img" src="/assets/Logo.png" alt=""> </div>
+        <div id="div-h1">
+            <h1>Encriptador y desencriptador de texto</h1>
+        </div>
+        <div id="div-icon">
+            <a href="https://github.com/leydivalencia" target="_blank"><img src="/assets/github.png" alt="" class="icon-git"> </a>
+            <a href="https://www.linkedin.com/in/leydi-valencia-pmig/" target="_blank"><img src="/assets/linkedin.png" alt="" class="icon-git"></a>
+        </div>
+    </header>
+
+    <!--seccion main-->
+    <main class="main">
+
+        <!--Seccion 1-->
+
+        <section class="presentacion1">
+            <div class="presentacion1_bloque">
+                <textarea id="presentacion1_texto" cols="30" rows="10" placeholder="Ingrese el texto aquí"></textarea>
+            </div>
+
+
+            <div class="presentacion_información">
+                <img class="prsentacion_información_imagen" src="/assets/Group.png" alt="">
+                <h6 class="prsentacion_información_texto">Solo letras minúsculas y sin acentos</h6>
+            </div>
+            <div class="btn">
+                <button type="button" class="btn_encriptar" onclick="encriptador()"> Encriptar</button>
+                <button type="button" class="btn_desencriptar" onclick="desencriptador()">Desencriptador</button>
+            </div>
+        </section>
+
+        <!--seccion de imagen-->
+        <section class="seccion_imagen">
+            <div class="mensaje_imagen"> 
+            <img src="assets/image.png" id="imagen"></div>
+
+            <div class="informativo">
+                <h3 class="informativo_texto">Ningún mensaje fue encontrar </h3>
+                <textarea name="" id="informativo_Desencriptado" rows="10"
+                    placeholder="Ingresa el texto que desees encriptar o desencriptar."></textarea>
+            </div>
+
+            <div class="btn1">
+                <button type="button" value="btn1_copiar" id="btn1_copiar" onclick="copiar()">Copiar Texto</button>
+                <button type="button" id="btn1_limpiar" onclick="limpiar()"> Limpiar</button>
+            </div>
+        </section>
+    </main>
+    <footer class="footer">
+            <h3> Desarrollado por Leydi Valencia | 2024</h3>
+    
+    </footer>
+</body>
+
+<script src="/script.js"></script>
+</html>

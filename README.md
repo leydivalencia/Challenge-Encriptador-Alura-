@@ -41,8 +41,11 @@ Las"llaves" de encriptación que se utilizaron son las siguientes:
 - CSS
 - JavaScript
 
+## Contacto
+Para cualquier pregunta o sugerencia, puedes contactarme a través de mis https://www.linkedin.com/in/leydi-valencia-pmig/ o escribiendo a mi correo Valencialeydi311@gmail.com """
+
 ### Ver el Proyecto
-Para ver el proyecto en acción, visita el repositorio en GitHub:
+Para ver el proyecto Deployments en GitHub:
 >https://leydivalencia.github.io/Challenge-Encriptador-Alura-/
 ### Clona el repositorio 
 https://github.com/leydivalencia/Challenge-Encriptador-Alura-.git

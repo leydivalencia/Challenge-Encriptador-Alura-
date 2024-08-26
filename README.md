@@ -41,8 +41,12 @@ Las"llaves" de encriptación que se utilizaron son las siguientes:
 - CSS
 - JavaScript
 
-## Contacto
-Para cualquier pregunta o sugerencia, puedes contactarme a través de mis https://www.linkedin.com/in/leydi-valencia-pmig/ o escribiendo a mi correo Valencialeydi311@gmail.com """
+## Acerca del Desarrollador
+Este proyecto fue desarrollado por **Leydi Valencia**. Puedes encontrar más sobre mí y mis otros proyectos en:
+
+* **LinkedIn:** https://www.linkedin.com/in/leydi-valencia-pmig/
+* **GitHub:** https://github.com/leydivalencia
+
 
 ### Ver el Proyecto
 Para ver el proyecto Deployments en GitHub:

@@ -1,25 +1,47 @@
-<h1># challenge-encriptador-alura- Oracle Next Education G7 </h1>
-El propósito de este desafío es abordar los conocimientos adquiridos en el curso en un proyecto real que refleje el trabajo de un desarrollador. 
-reforzando la comprensión de la lógica de programación, una habilidad clave en el desarrollo de software.
-<h2>Sobre el desafío</h2>
-El objetivo principal de este desafío es que experimentes la realización de un proyecto real, similar al trabajo diario de un desarrollador. Tendrás la oportunidad de practicar los conceptos aprendidos en los cursos hasta ahora. Este desafío te ayudará a consolidar y fortalecer tus conocimientos en lógica de programación, esenciales para el desarrollo de software.
+# Challenge-Encriptador-Alura- Oracle Next Education G7
 
-Las "llaves" de encriptación que utilizaremos son las siguientes:
+### Propósito del Desafío:
+> Solución al Challenge del curso de programación de Alura, adaptada con un estilo personal.
 
-*La letra "e" es convertida para "enter"
-*La letra "i" es convertida para "imes"
-*La letra "a" es convertida para "ai"
-*La letra "o" es convertida para "ober"
-*La letra "u" es convertida para "ufat"
-<h2> Requisitos: </h2>
+Este proyecto te permite cifrar y descifrar texto de forma sencilla utilizando un cifrado por sustitución básico. La interfaz es intuitiva y fácil de usar.
 
--Debe funcionar solo con letras minúsculas
--No deben ser utilizados letras con acentos ni caracteres especiales
--Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
+### Sobre el Desafío:
+A través de este proyecto, tendrás la oportunidad de practicar y consolidar los conceptos aprendidos, fortaleciendo tu capacidad para desarrollar soluciones de software de manera efectiva.
+### Reglas
+Las**"llaves"**de encriptación que se utilizaron son las siguientes:
 
-Por ejemplo: "gato" => "gaitober" gaitober" => "gato"
+- La letra"e"es convertida para "enter" 
+- La letra"i"es convertida para "imes" 
+- La letra"a"es convertida para "ai" 
+- La letra"o"es convertida para "ober" 
+- la letra"u"es convertida para "ufat"
 
-La página debe tener campos para inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones. El resultado debe ser mostrado en la pantalla.
-Extras:
+### Características :
+- Encriptación: Transforma palabras según un conjunto específico de reglas.
+- Desencriptación: Revierte el proceso de cifrado para obtener el texto original.
+- Copiar al Portapapeles: Copia fácilmente el texto cifrado o descifrado al portapapeles.
+- Limpiar campos: Borra tanto el campo de entrada como el de salida.
+- Funcionalidad responsiva para dispositivos móviles y PC. 
 
-Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+### Uso
+1. Entrada del usuario: Escribe el texto que deseas cifrar o descifrar en el campo correspondiente.
+2. Proceso de cifrado/descifrado: Al hacer clic en el botón correspondiente, el código JavaScript aplica la regla de sustitución al texto y muestra el resultado.
+3. Salida: El texto cifrado o descifrado se muestra en el área de salida.
+4. Al utlizar el botón copiar el texto encriptado o desencriptado se guardara en portapapeles
+5. Puedes limpiar el campo de ingreso de texto y resultado con el botón limpiar.
+
+
+### Tecnologías Utilizadas
+- HTML
+- CSS
+- JavaScript
+
+###Ver el Proyecto
+Para ver el proyecto en acción, visita el repositorio en GitHub:
+>https://leydivalencia.github.io/Challenge-Encriptador-Alura-/
+###Clona el repositorio 
+https://github.com/leydivalencia/Challenge-Encriptador-Alura-.git
+ 
+ ###Imagen 
+[![Resultado.png](https://i.postimg.cc/nzPVKPjS/Resultado.png)](https://postimg.cc/gX3Pm4K3)
+

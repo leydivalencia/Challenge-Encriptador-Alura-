@@ -39,7 +39,7 @@ Las**"llaves"**de encriptación que se utilizaron son las siguientes:
 ### Ver el Proyecto
 Para ver el proyecto en acción, visita el repositorio en GitHub:
 >https://leydivalencia.github.io/Challenge-Encriptador-Alura-/
-###Clona el repositorio 
+### Clona el repositorio 
 https://github.com/leydivalencia/Challenge-Encriptador-Alura-.git
  
  ### Imagen 

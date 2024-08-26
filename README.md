@@ -5,6 +5,9 @@
 
 Este proyecto te permite cifrar y descifrar texto de forma sencilla utilizando un cifrado por sustitución básico. La interfaz es intuitiva y fácil de usar.
 
+ ### Imagen 
+[![Resultado.png](https://i.postimg.cc/nzPVKPjS/Resultado.png)](https://postimg.cc/gX3Pm4K3)
+
 ### Sobre el Desafío:
 A través de este proyecto, tendrás la oportunidad de practicar y consolidar los conceptos aprendidos, fortaleciendo tu capacidad para desarrollar soluciones de software de manera efectiva.
 ### Reglas
@@ -54,6 +57,5 @@ Para ver el proyecto Deployments en GitHub:
 ### Clona el repositorio 
 https://github.com/leydivalencia/Challenge-Encriptador-Alura-.git
  
- ### Imagen 
-[![Resultado.png](https://i.postimg.cc/nzPVKPjS/Resultado.png)](https://postimg.cc/gX3Pm4K3)
+
 
